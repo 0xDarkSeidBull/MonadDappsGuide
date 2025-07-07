@@ -378,7 +378,6 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
   • Add LP (e.g., ETH/USDC)  
   • Remove LP  
 
-🧠 Tip: Use small amounts to avoid errors. Track tx on testnet explorer.  
 
 ---
 
@@ -387,7 +386,6 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 🔗 https://www.ape.bond/swap  
 🔹 Swap any token pair (e.g., ETH → DAI)  
 
-🧠 Tip: No need to stake, just complete a single swap interaction.  
 
 ---
 
@@ -399,7 +397,6 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
   • Add LP  
   • Remove LP  
 
-🧠 Tip: If LP options don’t load, refresh or reconnect wallet.  
 
 ---
 
@@ -408,7 +405,6 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 🔗 https://app.zona.finance/trade  
 🔹 Perform a trade — buy or sell any asset  
 
-🧠 Tip: Choose high-liquidity tokens for fast confirmation.  
 
 ---
 
@@ -420,3 +416,244 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
   • Click **Mint** to create a position  
   • Click **Redeem** to close it  
 
+  ---
+
+  ## 50. Wenwin — Lottery Games
+
+🔗 https://app.wenwin.com/  
+🔹 Connect Wallet  
+🔹 Participate in any game or lottery draw  
+🔹 If draws aren’t available, just check and browse  
+
+
+---
+
+## 51. Pingu Exchange — Trading
+
+🔗 https://pingu.exchange/trade/ETH-USD  
+🔹 Perform a trade (e.g., swap or trade between two assets)  
+🔹 Use market or limit orders as per available liquidity  
+
+---
+
+## 52. GlacierFi — Swap
+
+🔗 https://glacierfi.com/#/  
+🔹 Perform a Swap between any two tokens  
+🔹 Optional: Explore other sections like Liquidity  
+
+---
+
+## 53. Dirol DEX — Swap
+
+🔗 https://dex.dirol.io/swap  
+🔹 Perform a Swap  
+🔹 Optional: Check if liquidity adding/removal is available  
+
+---
+
+## 54. Flap Board — Board Interaction
+
+🔗 https://monad.flap.sh/board  
+🔹 Interact with the Board (swap, vote, or post based on features)  
+
+---
+
+## 55. Crystal Exchange — Swap
+
+🔗 https://app.crystal.exchange/swap?ref=cryptobhartiyax  
+🔹 Perform a Swap between any two tokens  
+
+---
+
+## 56. Rysk Finance — Staking
+
+🔗 https://app.rysk.finance/  
+🔹 Deposit 10+ MON tokens to earn APR rewards for 1 month  
+
+---
+
+## 57. AZEX Perp — Perpetuals & Yield
+
+🔗 https://testnet.azex.io/perp  
+🔹 Open Long & Short positions on any asset  
+🔹 Yield → ALP Pool: Buy tokens  
+🔹 Funds → Invest in listed projects  
+🔹 Copy Trading → Copy any active trade  
+
+---
+
+## 58. Synnax — Mint Futures
+
+🔗 https://monad.synnax.fi/#/markets/10143/1?action=mint  
+🔹 Mint a small amount of any asset (futures)  
+🔹 Optional: Redeem after minting if available  
+
+---
+
+## 59. Conft Name Service — Register Name
+
+🔗 https://conft.app/name-service  
+🔹 Connect Wallet  
+🔹 Go to Name Service  
+🔹 Register a name of your choice  
+
+---
+
+## 60. Dyson Finance — Multi-Step Interaction
+
+🔗 https://alpha.dyson.finance/prime-rewards/boosting  
+🔹 Swap tokens on Dyson DEX  
+🔹 Dual Investment: Invest MON  
+🔹 Claim Section: Claim Rewards  
+🔹 Staking: Stake tokens  
+🔹 Boosting: Boost your stake  
+
+---
+
+## 61. Talentum Projects — Daily Quests
+
+🔗 https://monad.talentum.id/projects  
+🔹 Maintain daily streak  
+🔹 Interact with 1–2 listed projects  
+🔹 Complete available quests  
+
+---
+
+## 62. HakiFi — Swap & Liquidity
+
+🔗 https://hakifi.xyz/dapp/pools  
+🔹 Perform a Swap (e.g., MON to USDC)  
+🔹 Provide liquidity in Pools  
+🔹 Remove liquidity after a few seconds  
+
+---
+
+## 63. Sherpa Trade — Swap
+
+🔗 https://app.sherpa.trade/lander  
+🔹 Connect Wallet  
+🔹 Click “Enter App”  
+🔹 Perform a Swap between any tokens  
+🔹 Optional: Explore charts and pairs  
+
+---
+
+## 64. Octo Exchange — Swap
+
+🔗 https://octo.exchange/swap  
+🔹 Connect Wallet  
+🔹 Swap MON to any token  
+🔹 Wait for confirmation popup  
+
+---
+
+## 65. Owlto — Contract Deployment
+
+🔗 https://owlto.finance/deploy/?chain=MonadTestnet  
+🔹 Connect Wallet  
+🔹 Select Monad Testnet  
+🔹 Deploy a Contract  
+🔹 Approve the transaction  
+
+---
+
+## 66. Purps — Swap
+
+🔗 https://app.purps.xyz/swap  
+🔹 Connect Wallet  
+🔹 Swap MON to USDC or another token  
+🔹 Approve and wait for confirmation  
+
+---
+
+## 67. Morpheus — Matrix Farming
+
+🔗 https://morpheus.farm/matrix?link=discord&code=vASFjSSMdJSREZAqEBDTjTKx8EUBOf&state=state  
+🔹 Connect Wallet  
+🔹 Enter Matrix section  
+🔹 Stake MON or LP tokens in a farm  
+🔹 Optionally harvest rewards  
+
+---
+
+## 68. Odyssey by Gateway — Quest Platform
+
+🔗 https://odyssey.gateway.tech/  
+🔹 Connect Wallet  
+🔹 Click Profile/Avatar  
+🔹 Check for quests or airdrop eligibility  
+🔹 Join waitlists, verify email, or complete on-chain tasks if available  
+
+---
+
+## 69. Fukunad Testnet — Launchpad
+
+🔗 https://testnet.fukunad.xyz/?ref=2eC0e2-m8n4rqzp  
+🔹 Connect Wallet  
+🔹 Use referral link  
+🔹 Explore dashboard  
+🔹 Interact with any active faucet or testnet feature  
+
+---
+## 70. Nabla Finance — Pools
+
+🔗 https://app.nabla.fi/pools  
+🔹 Connect Wallet  
+🔹 Explore the “Pools” section  
+🔹 Join a liquidity pool if active  
+🔹 If inactive, interact with the UI  
+
+---
+
+## 71. Sparkadia — Signup
+
+🔗 https://sparkadia.gg/signup  
+🔹 Create an account with email and username  
+🔹 Verify email if prompted  
+🔹 Optional: Join Discord or subscribe to newsletter  
+
+---
+
+### ✅ Monad dApps Interaction Guide — 71+ dApps Covered
+We’ve currently listed 71 unique Monad dApps with detailed interaction steps.
+
+🛠 More dApps will be added regularly as the Monad ecosystem grows. Stay tuned and keep revisiting for updates!
+
+---
+
+## 🧠 Best Practices
+
+- Use **small amounts** of testnet tokens.
+- Interact with **every feature** at least once.
+- Keep **transaction hashes** for tracking.
+- Rotate wallets if farming across multiple addresses.
+- Don't rush — spread actions across days to appear organic.
+
+---
+
+## 🔗 Useful Links
+
+- ✅ [Faucet](https://faucet.monad.xyz)
+- ✅ [Monad Explorer](https://explorer.testnet.monad.xyz/)
+- ✅ [Monad Docs](https://docs.monad.xyz/)
+
+---
+## 📬 Connect
+
+- Twitter: [@CryptoBhartiya](https://twitter.com/CryptoBhartiya)
+- Telegram: [@DarkseidBull](https://t.me/DarkseidBull)
+- YouTube: [CryptoBhartiya Channel](https://youtube.com/@CryptoBhartiya)
+---
+
+## 👨‍💻 Contributors
+
+- Made with ❤️ by the crypto community  
+- Maintained by [CryptoBhartiya](https://twitter.com/CryptoBhartiyaX) / [DarkseidBull](https://t.me/DarkseidBull)
+
+---
+
+## 📢 License
+
+This guide is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
+Feel free to fork, contribute, and share with proper credit.
