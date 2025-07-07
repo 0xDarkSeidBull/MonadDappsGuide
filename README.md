@@ -641,7 +641,7 @@ We’ve currently listed 71 unique Monad dApps with detailed interaction steps.
 ---
 ## 📬 Connect
 
-- Twitter: [@CryptoBhartiya](https://twitter.com/CryptoBhartiya)
+- Twitter: [@CryptoBhartiya](https://twitter.com/CryptoBhartiyaX)
 - Telegram: [@DarkseidBull](https://t.me/DarkseidBull)
 - YouTube: [CryptoBhartiya Channel](https://youtube.com/@CryptoBhartiya)
 ---
@@ -649,7 +649,7 @@ We’ve currently listed 71 unique Monad dApps with detailed interaction steps.
 ## 👨‍💻 Contributors
 
 - Made with ❤️ by the crypto community  
-- Maintained by [CryptoBhartiya](https://twitter.com/CryptoBhartiyaX) / [DarkseidBull](https://t.me/DarkseidBull)
+- Maintained by [CryptoBhartiyaX](https://twitter.com/CryptoBhartiyaX) / [DarkseidBull](https://t.me/DarkseidBull)
 
 ---
 
