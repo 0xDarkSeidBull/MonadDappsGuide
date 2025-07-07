@@ -314,3 +314,109 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 🔹 Stake tokens  
 🔹 Restake your yield later  
 
+---
+## 36. Clober Alpha — Order Book Trading  
+🔗 https://alpha.clober.io/trade?chain=10143  
+🔹 Trade testnet tokens using limit and market orders  
+
+---
+
+## 37. Taya Swap — DEX  
+🔗 https://app.taya.fi/swap  
+🔹 Swap Monad testnet tokens easily  
+
+---
+
+## 38. Monda Fund Swap — DEX  
+🔗 https://app.monda.fund/swap  
+🔹 Swap Monad testnet tokens on another decentralized exchange  
+
+---
+
+## 39. AtlantisDEX — Swap  
+🔗 https://app.atlantisdex.xyz/swap/  
+🔹 Trade testnet tokens via a decentralized exchange  
+
+---
+
+## 40. MonadScore — Leaderboard & Points  
+🔗 https://monadscore.xyz/signup/r/r6IDygQT  
+🔹 Signup & earn points for using Monad dApps  
+
+---
+
+## 41. Impossible Finance — Launchpad  
+🔗 https://app.impossible.finance/launchpad/project/160?ref=blog.impossible.finance  
+🔹 Join testnet token launches and IDOs  
+
+---
+
+## 42. Freee Marketplace — NFT Collect  
+🔗 https://testnet.freee.xyz/collect/monadt:0xAb0bA06c13eC49c0842ef4716CeB1593f2C41779/token/5  
+🔹 Mint and collect Monad testnet NFTs  
+
+---
+
+## 43. Monarch — Airdrop Dashboard  
+🔗 https://morkie.xyz/monarch  
+🔹 Explore potential airdrop opportunities for Monad  
+
+---
+
+## 44. Revoke.cash — Security  
+🔗 https://revoke.cash/  
+🔹 Revoke unnecessary token approvals from your wallet  
+
+---
+
+## 45. Madness Finance — Swap & Liquidity
+
+🔗 https://madness.finance  
+🔹 Visit the homepage (daily check simulation)  
+🔹 Go to **Swap** → Swap any token pair (e.g., ETH → USDC)  
+🔹 Go to **Liquidity** →  
+  • Add LP (e.g., ETH/USDC)  
+  • Remove LP  
+
+🧠 Tip: Use small amounts to avoid errors. Track tx on testnet explorer.  
+
+---
+
+## 46. ApeBond — Swap
+
+🔗 https://www.ape.bond/swap  
+🔹 Swap any token pair (e.g., ETH → DAI)  
+
+🧠 Tip: No need to stake, just complete a single swap interaction.  
+
+---
+
+## 47. BubbleFi — Swap & Liquidity
+
+🔗 https://app.bubblefi.xyz/  
+🔹 Do a **Swap** (any token pair)  
+🔹 Go to **Liquidity** →  
+  • Add LP  
+  • Remove LP  
+
+🧠 Tip: If LP options don’t load, refresh or reconnect wallet.  
+
+---
+
+## 48. Zona Finance — Trade
+
+🔗 https://app.zona.finance/trade  
+🔹 Perform a trade — buy or sell any asset  
+
+🧠 Tip: Choose high-liquidity tokens for fast confirmation.  
+
+---
+
+## 49. Alpha Clober — Trade & Futures
+
+🔗 https://alpha.clober.io/futures  
+🔹 Go to **Trade** → Execute a simple spot trade  
+🔹 Go to **Futures** →  
+  • Click **Mint** to create a position  
+  • Click **Redeem** to close it  
+
