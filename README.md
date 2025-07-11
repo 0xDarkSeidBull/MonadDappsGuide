@@ -419,11 +419,15 @@ Optionally, repeat for other vaults to explore the UI further
 ---
 
 ## 49. Swyrl Finance — Claim Test Tokens
+
 🔗 http://swyrl.finance
-🔹 Connect your wallet (Backpack/Phantom/Solflare)
-🔹 Go to the Quest section
-🔹 Click on "Test Token" to claim testnet assets
-🔹 You will receive 0.2 $MON and $ANGLER tokens  
+ 🔹 Connect your wallet (Backpack/Phantom/Solflare) 
+
+ 🔹 Go to the Quest section
+ 
+ 🔹 Click on "Test Token" to claim testnet assets
+ 
+ 🔹 You will receive 0.2 $MON and $ANGLER tokens  
 
   ---
 
