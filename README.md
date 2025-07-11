@@ -196,10 +196,20 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 21. Monorail — Swap
+## 21.MeowFi — Bribe with shMON
+🔗 https://app.meowfi.xyz/?ref=default
 
-🔗 http://testnet-preview.monorail.xyz  
-🔹 Swap tokens seamlessly (MON ↔ USDC or others)  
+Connect your wallet (Backpack/Phantom/Solflare)
+
+Click Bribe from the top menu
+
+Select the Backpack vault from the list
+
+Enter the amount of shMON you want to deposit
+
+Click Deposit and approve the transaction
+
+Optionally, repeat for other vaults to explore the UI further
 
 ---
 
