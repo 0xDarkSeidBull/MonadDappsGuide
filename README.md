@@ -418,13 +418,13 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 49. Alpha Clober — Trade & Futures
+## 49. Swyrl Finance — Claim Test Tokens
 
-🔗 https://alpha.clober.io/futures  
-🔹 Go to **Trade** → Execute a simple spot trade  
-🔹 Go to **Futures** →  
-  • Click **Mint** to create a position  
-  • Click **Redeem** to close it  
+🔗 http://swyrl.finance
+🔹Connect your wallet (Backpack/Phantom/Solflare)
+🔹Go to the Quest section
+🔹Click on "Test Token" to claim testnet assets
+🔹You will receive 0.2 $MON and $ANGLER tokens  
 
   ---
 
