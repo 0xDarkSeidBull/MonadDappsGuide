@@ -419,24 +419,23 @@ Optionally, repeat for other vaults to explore the UI further
 ---
 
 ## 49. Swyrl Finance — Claim Test Tokens
-
-🔗 http://swyrl.finance
-🔹 Connect your wallet (Backpack/Phantom/Solflare)
-🔹 Go to the Quest section
-🔹 Click on "Test Token" to claim testnet assets
-🔹 You will receive 0.2 $MON and $ANGLER tokens
+🔗 http://swyrl.finance   
+🔹 Connect your wallet (Backpack/Phantom/Solflare)   
+🔹 Go to the Quest section   
+🔹 Click on "Test Token" to claim testnet assets   
+🔹 You will receive 0.2 $MON and $ANGLER tokens   
 
   ---
 
   ## 50. Wenwin — Lottery Games
 
-🔗 https://app.wenwin.com/  
-🔹 Connect Wallet  
-🔹 Participate in any game or lottery draw  
-🔹 If draws aren’t available, just check and browse  
+🔗 https://app.wenwin.com/
 
+🔹 Connect Wallet   
+🔹 Participate in any game or lottery draw   
+🔹 If draws aren’t available, just check and browse   
 
----
+ ---
 
 ## 51. Pingu Exchange — Trading
 
