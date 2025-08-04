@@ -179,11 +179,12 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 19. Kinza — Lend & Borrow
+## 19. shmonad Staking — Stake & Manage MON
 
-🔗 http://monad-test.kinza.finance/#/dashboard  
-🔹 Lend MON or other assets  
-🔹 Borrow against your lending position  
+🔗 https://shmonad.xyz/community
+🔹 Stake MON  
+🔹 Redeem your stake  
+🔹 Commit & Uncommit  
 
 ---
 
@@ -269,6 +270,9 @@ Optionally, repeat for other vaults to explore the UI further
 🔗 http://townesquare.xyz/onboard  
 🔹 Use referral code `WR153` for bonuses  
 🔹 Stake with aPriori or Magma  
+
+---
+
 ## 29. Ambient Finance — Swap & Liquidity
 
 🔗 http://monad.ambient.finance/swap/chain=0x279f&tokenA=0x0000000000000000000000000000000000000000&tokenB=0xf817257fed379853cDe0fa4F97AB987181B1E5Ea  
@@ -277,11 +281,12 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 30. Caddy Finance — Options
+## 30. Monad Explorer — Connect & Transact
 
-🔗 http://alpha.caddy.finance  
-🔹 Claim stMON via faucet  
-🔹 Buy a Call/Put option under Perpetuals  
+🔗 https://testnet.monadexplorer.com/
+🔹 Connect Wallet  
+🔹 Swap  
+🔹 Send  
 
 ---
 
@@ -293,11 +298,12 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 32. KiloEx — Perpetual Trading
+## 32. zkSwap — Swap, Pool & Bulk Send 
 
-🔗 https://app.kiloex.io/trade?sCode=m8hcieq9l&utm_source=referral&utm_medium=m8hcieq9l  
-🔹 Mint 2,000 USDT  
-🔹 Trade with leverage  
+🔗 https://zkswap.finance/swap
+🔹 Swap tokens  
+🔹 Add to Pool  
+🔹 Bulk Send  
 
 ---
 
@@ -325,6 +331,7 @@ Optionally, repeat for other vaults to explore the UI further
 🔹 Restake your yield later  
 
 ---
+
 ## 36. Clober Alpha — Order Book Trading  
 🔗 https://alpha.clober.io/trade?chain=10143  
 🔹 Trade testnet tokens using limit and market orders  
@@ -337,9 +344,11 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 38. Monda Fund Swap — DEX  
-🔗 https://app.monda.fund/swap  
-🔹 Swap Monad testnet tokens on another decentralized exchange  
+## 38. Purps Swap — DEX  
+🔗 https://app.monda.fund/swap
+🔹 Swap 
+🔹 Stake & Unstake  
+🔹 Pool 
 
 ---
 
@@ -349,15 +358,20 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 40. MonadScore — Leaderboard & Points  
-🔗 https://monadscore.xyz/signup/r/r6IDygQT  
-🔹 Signup & earn points for using Monad dApps  
+## 40. MOnarch — Play Games & Climb Leaderboard
+🔗 https://m0narch.xyz/leaderboard  
+🔹 Play Monroll, Roulette, Chest, Plinko, RPS  
+🔹 Join Weekly Contest  
+🔹 Earn MON via Airdrops & Leaderboards  
 
 ---
 
-## 41. Impossible Finance — Launchpad  
-🔗 https://app.impossible.finance/launchpad/project/160?ref=blog.impossible.finance  
-🔹 Join testnet token launches and IDOs  
+## 41. XL Meme — Create & Trade Memes
+🔗 https://testnet.xlmeme.com/monad  
+🔹 Create & share memes  
+🔹 View Meme of the Day  
+🔹 Buy & sell meme tokens  
+🔹 Track market cap & latest trades  
 
 ---
 
@@ -367,9 +381,9 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 43. Monarch — Airdrop Dashboard  
-🔗 https://morkie.xyz/monarch  
-🔹 Explore potential airdrop opportunities for Monad  
+## 43. Madhouse — Simple Token Swap
+🔗 https://madhouse.ag/  
+🔹 Swap tokens on Monad testnet  
 
 ---
 
@@ -475,29 +489,27 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 56. Rysk Finance — Staking
-
-🔗 https://app.rysk.finance/  
-🔹 Deposit 10+ MON tokens to earn APR rewards for 1 month  
-
----
-
-## 57. AZEX Perp — Perpetuals & Yield
-
-🔗 https://testnet.azex.io/perp  
-🔹 Open Long & Short positions on any asset  
-🔹 Yield → ALP Pool: Buy tokens  
-🔹 Funds → Invest in listed projects  
-🔹 Copy Trading → Copy any active trade  
+## 56. Uniswap — Swap & Pool on Monad
+🔗 https://app.uniswap.org/swap  
+🔹 Switch to Monad Testnet  
+🔹 Swap tokens  
+🔹 Add or remove liquidity from Pool  
 
 ---
 
-## 58. Synnax — Mint Futures
+## 57.Wonad — Stake NFTs & Earn $WPOINT
+🔗 https://app.thiswonad.xyz/  
+🔹 Stake NFTs  
+🔹 Collect & view your NFT collection  
+🔹 Track leaderboard & rewards  
+🔹 Boost with Fungi Cards (x5 bonus)  
 
-🔗 https://monad.synnax.fi/#/markets/10143/1?action=mint  
-🔹 Mint a small amount of any asset (futures)  
-🔹 Optional: Redeem after minting if available  
+---
 
+## 58.Celeris — Mint & Trade Tokens
+🔗 https://celeris.exchange/trade  
+🔹 Mint tokens  
+🔹 Trade assets on Monad testnet  
 ---
 
 ## 59. Conft Name Service — Register Name
@@ -567,12 +579,11 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 66. Purps — Swap
+## 66.  SWMonad — Stake & Commit MON
 
-🔗 https://app.purps.xyz/swap  
-🔹 Connect Wallet  
-🔹 Swap MON to USDC or another token  
-🔹 Approve and wait for confirmation  
+🔗 https://swmonad.xyz/stake  
+🔹 Stake & Unstake MON  
+🔹 Commit & Uncommit   
 
 ---
 
@@ -586,13 +597,10 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 68. Odyssey by Gateway — Quest Platform
-
-🔗 https://odyssey.gateway.tech/  
-🔹 Connect Wallet  
-🔹 Click Profile/Avatar  
-🔹 Check for quests or airdrop eligibility  
-🔹 Join waitlists, verify email, or complete on-chain tasks if available  
+## 68. Crust Finance — Swap & Provide Liquidity
+🔗 https://testnet.crust.finance/swap  
+🔹 Swap tokens  
+🔹 Add Liquidity (LP)  
 
 ---
 
@@ -615,12 +623,9 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 71. Sparkadia — Signup
-
-🔗 https://sparkadia.gg/signup  
-🔹 Create an account with email and username  
-🔹 Verify email if prompted  
-🔹 Optional: Join Discord or subscribe to newsletter  
+## 71. Aarna Engine — Deposit USDC on Monad
+🔗 https://engine.aarna.ai/vaults  
+🔹 Deposit USDC on the Monad network  
 
 ---
 
