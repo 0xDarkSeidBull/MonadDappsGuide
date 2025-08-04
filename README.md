@@ -510,6 +510,7 @@ Optionally, repeat for other vaults to explore the UI further
 🔗 https://celeris.exchange/trade  
 🔹 Mint tokens  
 🔹 Trade assets on Monad testnet  
+
 ---
 
 ## 59. Conft Name Service — Register Name
@@ -623,9 +624,14 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 71. Aarna Engine — Deposit USDC on Monad
-🔗 https://engine.aarna.ai/vaults  
-🔹 Deposit USDC on the Monad network  
+## 71. Blockchain Messages — Send & Earn MON
+
+🔗 [https://www.blockchainmessages.xyz/](https://www.blockchainmessages.xyz/?referral=213874&chain=monad&type=public) 
+
+🔹 Send public, direct, encrypted, or anonymous messages  
+🔹 Earn points for each message  
+🔹 Track streaks & leaderboard  
+🔹 Claim referral & recipient rewards  
 
 ---
 
