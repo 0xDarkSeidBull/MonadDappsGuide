@@ -281,9 +281,9 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 30. Monad Explorer — Connect & Transact  
+## 30. Monad Explorer — Connect & Transact    
 
-🔗 https://testnet.monadexplorer.com/
+🔗 https://testnet.monadexplorer.com/   
 🔹 Connect Wallet  
 🔹 Swap  
 🔹 Send  
