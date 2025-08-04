@@ -179,12 +179,12 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 19. shmonad Staking — Stake & Manage MON
-
-🔗 https://shmonad.xyz/community
-🔹 Stake MON  
-🔹 Redeem your stake  
-🔹 Commit & Uncommit  
+## 19. shmonad Staking — Stake & Manage MON  
+ 
+🔗 https://shmonad.xyz/community  
+🔹 Stake MON    
+🔹 Redeem your stake    
+🔹 Commit & Uncommit    
 
 ---
 
@@ -275,13 +275,13 @@ Optionally, repeat for other vaults to explore the UI further
 
 ## 29. Ambient Finance — Swap & Liquidity
 
-🔗 http://monad.ambient.finance/swap/chain=0x279f&tokenA=0x0000000000000000000000000000000000000000&tokenB=0xf817257fed379853cDe0fa4F97AB987181B1E5Ea  
-🔹 Swap MON → USDC  
-🔹 Provide liquidity  
+🔗 https://monad.ambient.finance/   
+🔹 Swap MON → USDC    
+🔹 Provide liquidity    
 
 ---
 
-## 30. Monad Explorer — Connect & Transact
+## 30. Monad Explorer — Connect & Transact  
 
 🔗 https://testnet.monadexplorer.com/
 🔹 Connect Wallet  
@@ -290,7 +290,7 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 31. NAD Name Service — Domain Registration
+## 31. NAD Name Service — Domain Registration   
 
 🔗 http://app.nad.domains  
 🔹 Connect Wallet  
@@ -298,12 +298,12 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 32. zkSwap — Swap, Pool & Bulk Send 
-
-🔗 https://zkswap.finance/swap
-🔹 Swap tokens  
-🔹 Add to Pool  
-🔹 Bulk Send  
+## 32. zkSwap — Swap, Pool & Bulk Send    
+  
+🔗 https://zkswap.finance/swap   
+🔹 Swap tokens    
+🔹 Add to Pool    
+🔹 Bulk Send    
 
 ---
 
@@ -344,11 +344,12 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 38. Purps Swap — DEX  
-🔗 https://app.monda.fund/swap
-🔹 Swap 
-🔹 Stake & Unstake  
-🔹 Pool 
+## 38. Purps Swap — DEX   
+
+🔗 https://app.monda.fund/swap  
+🔹 Swap   
+🔹 Stake & Unstake    
+🔹 Pool   
 
 ---
 
