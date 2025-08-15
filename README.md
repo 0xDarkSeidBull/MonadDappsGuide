@@ -49,11 +49,10 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 4. BubbleFi — Swap, Pool
+## 4. CometBridge — Free Deploy on Monad   
 
-🔗 https://app.bubblefi.xyz/  
-- Swap MON ↔ USDC  
-- Add Liquidity in Pool section  
+🔗 https://cometbridge.app/deploy   
+- Deploy contracts on Monad for free  
 
 ---
 
