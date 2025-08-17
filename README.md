@@ -187,12 +187,10 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 20. MetaLeap — Subscription & Faucet
+## 20. FWX Finance — Deposit Collateral → Trade (Leverage DEX & Perps)  
 
-🔗 http://metaleap.io  
-🔹 Create an account & connect wallet  
-🔹 Claim faucet tokens  
-🔹 Buy a subscription  
+🔗 https://app.fwx.finance/10143/referral?code=30278  
+🔹Deposit collateral (currently USDC) into the platform 
 
 ---
 
@@ -271,12 +269,10 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 30. Monad Explorer — Connect & Transact    
+## 30. AllDomains (Monad) — Buy Web3 Domains   
 
-🔗 https://testnet.monadexplorer.com/   
-🔹 Connect Wallet  
-🔹 Swap  
-🔹 Send  
+🔗 https://monad.alldomains.id/  
+🔹Purchase and register .mon domains to secure your on-chain identity   
 
 ---
 
@@ -521,12 +517,10 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 61. Talentum Projects — Daily Quests
+## 61. Mu Digital — Mint muBOND with MON or USDC  
 
-🔗 https://monad.talentum.id/projects  
-🔹 Maintain daily streak  
-🔹 Interact with 1–2 listed projects  
-🔹 Complete available quests  
+🔗 https://testnet.mudigital.net/  
+🔹Connect your wallet—then mint muBOND using MON or USDC  
 
 ---
 
@@ -603,16 +597,14 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 🔹 Interact with any active faucet or testnet feature   
 
 ---
+
 ## 70. Nabla Finance — Pools
 
 🔗 https://app.nabla.fi/pools  
 🔹 Connect Wallet  
 🔹 Explore the “Pools” section  
-🔹 Join a liquidity pool if active  
-🔹 If inactive, interact with the UI  
 
 ---
-
 
 ## 71. Blockchain Messages — Send & Earn MON
 
@@ -640,33 +632,28 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 74. AllDomains (Monad) — Buy Web3 Domains   
+# 🔥 Daily Monad Tasks – 🔥 #
 
-🔗 https://monad.alldomains.id/  
-🔹Purchase and register .mon domains to secure your on-chain identity  
+## 74. Claim LUMONAD  
+🔗 https://gmonad.lumiterra.net/lumonad  
 
----
+## 75. GM & Contract Deploy  
+🔗 https://onchaingm.com/  
 
-## 75. Mu Digital — Mint muBOND with MON or USDC  
+## 76. Talentum Daily Streak  
+🔗 https://monad.talentum.id/projects  
 
-🔗 https://testnet.mudigital.net/  
-🔹Connect your wallet—then mint muBOND using MON or USDC  
+## 77. MetaLeap Daily Check-in  
+🔗 https://metaleap.io/p2e/earn  
 
----
- 
-## 76. FWX Finance — Deposit Collateral → Trade (Leverage DEX & Perps)  
+## 78. Monad Explorer — Connect & Transact
+🔗 https://testnet.monadexplorer.com/
+🔹 Connect Wallet
+🔹 Swap
+🔹 Send
 
-🔗 https://app.fwx.finance/10143/referral?code=30278  
-🔹Deposit collateral (currently USDC) into the platform  
-
-Trade with leverage (long/short positions via Perps or Permissionless DEX)
-You’ll receive the new token muBOND
-### ✅ Monad dApps Interaction Guide — 71+ dApps Covered
-We’ve currently listed 71 unique Monad dApps with detailed interaction steps.
-
-🛠 More dApps will be added regularly as the Monad ecosystem grows. Stay tuned and keep revisiting for updates!
-
----
+## 79. 🔗 https://testnet.monad.xyz/
+🔹 Swap to Dak Yaki Cgog
 
 ## 🧠 Best Practices
 
