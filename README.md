@@ -634,27 +634,29 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 # 🔥 Daily Monad Tasks – 🔥 #
 
-## 74. Claim LUMONAD  
-🔗 https://gmonad.lumiterra.net/lumonad  
+## 74. Claim LUMONAD    
+🔗 https://gmonad.lumiterra.net/lumonad    
 
-## 75. GM & Contract Deploy  
-🔗 https://onchaingm.com/  
+## 75. GM & Contract Deploy    
+🔗 https://onchaingm.com/    
 
-## 76. Talentum Daily Streak  
-🔗 https://monad.talentum.id/projects  
+## 76. Talentum Daily Streak    
+🔗 https://monad.talentum.id/projects    
 
-## 77. MetaLeap Daily Check-in  
-🔗 https://metaleap.io/p2e/earn  
+## 77. MetaLeap Daily Check-in     
+🔗 https://metaleap.io/p2e/earn    
 
-## 78. Monad Explorer — Connect & Transact
-🔗 https://testnet.monadexplorer.com/
-🔹 Connect Wallet
-🔹 Swap
-🔹 Send
+## 78. Monad Explorer — Connect & Transact    
+🔗 https://testnet.monadexplorer.com/  
+🔹 Connect Wallet  
+🔹 Swap  
+🔹 Send  
 
-## 79. 🔗 https://testnet.monad.xyz/
-🔹 Swap to Dak Yaki Cgog
+## 79. Testnet Monad  
+🔗 https://testnet.monad.xyz/  
+🔹 Swap to Dak Yaki Cgog  
 
+---
 ## 🧠 Best Practices
 
 - Use **small amounts** of testnet tokens.
