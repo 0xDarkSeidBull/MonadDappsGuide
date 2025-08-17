@@ -24,81 +24,81 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 ## 1. Monorail — Swap
 
 🔗 https://testnet-preview.monorail.xyz/  
-- Connect Wallet  
-- Swap MON → USDC  
-- Swap back USDC → MON  
-- Try 2–3 different token pairs for variety
+🔹 Connect Wallet  
+🔹 Swap MON → USDC  
+🔹Swap back USDC → MON  
+🔹Try 2–3 different token pairs for variety
 
 ---
 
 ## 2. Likwid — Swap, Pool, Lend, Borrow
 
 🔗 https://likwid.fi/  
-- Swap tokens (e.g. MON ↔ USDC)  
-- Add Liquidity in the Pool section  
-- Supply tokens in the Lend section  
-- Borrow tokens using supplied collateral
+🔹Swap tokens (e.g. MON ↔ USDC)  
+🔹 Add Liquidity in the Pool section  
+🔹Supply tokens in the Lend section  
+🔹Borrow tokens using supplied collateral
 
 ---
 
 ## 3. Amertis — Swap
 
 🔗 https://testnet.amertis.exchange/  
-- Connect Wallet  
-- Perform a basic token swap (e.g. MON ↔ USDC)  
+🔹 Connect Wallet  
+🔹 Perform a basic token swap (e.g. MON ↔ USDC)  
 
 ---
 
 ## 4. CometBridge — Free Deploy on Monad   
 
 🔗 https://cometbridge.app/deploy   
-- Deploy contracts on Monad for free  
+🔹 Deploy contracts on Monad for free  
 
 ---
 
 ## 5. Kuru — NFT Monster Mint & Trade
 
 🔗 http://kuru.io/trade/0xd8336cB07D4BE511cCaF06B799851E1A80F98c71  
-- Connect Wallet & deposit MON tokens  
-- Click the egg to claim a monster  
-- Save traits, trade, or create tokens  
+🔹 Connect Wallet & deposit MON tokens  
+🔹 Click the egg to claim a monster  
+🔹 Save traits, trade, or create tokens  
 
 ---
 
 ## 6. Curvance Leaderboard — Lending Tasks
 
 🔗 https://monad.curvance.com/leaderboard/referrals?referral=gDBvlX5Ng  
-- Connect Wallet  
-- Claim faucet tokens  
-- Complete tasks from notifications  
-- Repaying may take ~20 minutes  
+🔹 Connect Wallet  
+🔹Claim faucet tokens  
+🔹 Complete tasks from notifications  
+🔹Repaying may take ~20 minutes  
 
 ---
 
 ## 7. aPriori — Stake, Faucet
 
 🔗 http://stake.apr.io/faucet  
-- Connect Wallet  
-- Stake MON tokens  
-- Access MON faucet (once every 12 hours)  
+🔹 Connect Wallet  
+🔹 Stake MON tokens  
+🔹 Access MON faucet (once every 12 hours)  
 
 ---
+ 
+## 8. Monday Trade — MON-USDC Swap Pool  
 
-## 8. RareBetSports — Social Betting
-
-🔗 http://rarebetsports.io  
-- Connect Wallet & deposit MON  
-- Create a RareLink with 3+ bets  
-- Place testnet bets  
+🔗 https://app.monday.trade/#/spot/trade/monadTestnet/0x7d148143b7033f150830ff9114797b54671dde2e/MON-USDC   
+🔹 Connect Wallet  
+🔹 Swap MON ↔ USDC  
+🔹 Add Liquidity in the Pool section  
 
 ---
 
 ## 9. Magic Eden — NFT Mint & Create
 
 🔗 http://magiceden.us/monad-testnet  
-- Connect Wallet  
-- Mint available NFTs  
-- Create your own NFT (e.g., “The Hub”)
+🔹 Connect Wallet  
+🔹 Mint available NFTs  
+🔹Create your own NFT (e.g., “The Hub”)
 
 ---
 
@@ -196,20 +196,11 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 21.MeowFi — Bribe with shMON
-🔗 https://app.meowfi.xyz/?ref=default
+## 21.Mace — Testnet Swap (Mace on Monad)   
 
-Connect your wallet (Backpack/Phantom/Solflare)
+🔗 https://testnet.swaps.mace.ag/   
 
-Click Bribe from the top menu
-
-Select the Backpack vault from the list
-
-Enter the amount of shMON you want to deposit
-
-Click Deposit and approve the transaction
-
-Optionally, repeat for other vaults to explore the UI further
+🔹Swap MON ↔ USDC or more tokens   
 
 ---
 
@@ -322,12 +313,11 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 35. Multipli — Yield Staking
+## 35. Pandaria — Swap & Pool (LFJ on Monad Testnet)   
 
-🔗 http://testnet.multipli.fi/?referral_code=8J20L  
-🔹 Claim USDC/USDT test tokens  
-🔹 Stake tokens  
-🔹 Restake your yield later  
+🔗 https://pandaria.lfj.gg/   
+🔹Swap tokens via the Pandaria interface (powered by LFJ)  
+🔹Provide liquidity by adding to pools (Pool section)  
 
 ---
 
@@ -424,10 +414,10 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 48. Zona Finance — Trade
-
-🔗 https://app.zona.finance/trade  
-🔹 Perform a trade — buy or sell any asset  
+## 48. Eisen Finance — Trade (Unified CEX & DEX Aggregator)   
+ 
+🔗 https://app.eisenfinance.com/    
+🔹Trade via integrated CEX & DEX aggregation—execute swaps, spot trades, and more.   
 
 
 ---
@@ -497,12 +487,10 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 57.Wonad — Stake NFTs & Earn $WPOINT
-🔗 https://app.thiswonad.xyz/  
-🔹 Stake NFTs  
-🔹 Collect & view your NFT collection  
-🔹 Track leaderboard & rewards  
-🔹 Boost with Fungi Cards (x5 bonus)  
+## 57.Pecker — Swap & Pool  
+
+🔗 https://app.pecker.so/  
+🔹Swap tokens or provide liquidity in pools via the Pecker interface  
 
 ---
 
@@ -580,11 +568,12 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
-## 66.  SWMonad — Stake & Commit MON
+## 66.  BHive — Deposit MON → Borrow HIVE → Stake to Earn BEE Reward  
 
-🔗 https://swmonad.xyz/stake  
-🔹 Stake & Unstake MON  
-🔹 Commit & Uncommit   
+🔗 https://app.bhive.finance/#/market/10143/1?action=mint  
+🔹Deposit MON  
+🔹Borrow HIVE  
+🔹Stake the borrowed HIVE to earn BEE rewards (Bee Points)  
 
 ---
 
@@ -611,7 +600,7 @@ Optionally, repeat for other vaults to explore the UI further
 🔹 Connect Wallet  
 🔹 Use referral link  
 🔹 Explore dashboard  
-🔹 Interact with any active faucet or testnet feature  
+🔹 Interact with any active faucet or testnet feature   
 
 ---
 ## 70. Nabla Finance — Pools
@@ -624,6 +613,7 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
+
 ## 71. Blockchain Messages — Send & Earn MON
 
 🔗 [https://www.blockchainmessages.xyz/](https://www.blockchainmessages.xyz/?referral=213874&chain=monad&type=public) 
@@ -635,6 +625,42 @@ Optionally, repeat for other vaults to explore the UI further
 
 ---
 
+## 72. Enjoyoors — Stake MONAD & Other Tokens   
+
+🔗 https://app.enjoyoors.xyz/monad/wrap   
+🔹Stake MONAD and other supported tokens  
+🔹Receive rewards for staking participation  
+
+---
+
+## 73. Cult.Trade — Trade Meme Coins  
+
+🔗 https://www.cult.trade/  
+🔹Trade memecoins directly on the Cult.Trade platform  
+
+---
+
+## 74. AllDomains (Monad) — Buy Web3 Domains   
+
+🔗 https://monad.alldomains.id/  
+🔹Purchase and register .mon domains to secure your on-chain identity  
+
+---
+
+## 75. Mu Digital — Mint muBOND with MON or USDC  
+
+🔗 https://testnet.mudigital.net/  
+🔹Connect your wallet—then mint muBOND using MON or USDC  
+
+---
+ 
+## 76. FWX Finance — Deposit Collateral → Trade (Leverage DEX & Perps)  
+
+🔗 https://app.fwx.finance/10143/referral?code=30278  
+🔹Deposit collateral (currently USDC) into the platform  
+
+Trade with leverage (long/short positions via Perps or Permissionless DEX)
+You’ll receive the new token muBOND
 ### ✅ Monad dApps Interaction Guide — 71+ dApps Covered
 We’ve currently listed 71 unique Monad dApps with detailed interaction steps.
 
