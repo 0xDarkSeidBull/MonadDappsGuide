@@ -606,18 +606,7 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 71. Blockchain Messages — Send & Earn MON
-
-🔗 [https://www.blockchainmessages.xyz/](https://www.blockchainmessages.xyz/?referral=213874&chain=monad&type=public) 
-
-🔹 Send public, direct, encrypted, or anonymous messages  
-🔹 Earn points for each message  
-🔹 Track streaks & leaderboard  
-🔹 Claim referral & recipient rewards  
-
----
-
-## 72. Enjoyoors — Stake MONAD & Other Tokens   
+## 71. Enjoyoors — Stake MONAD & Other Tokens   
 
 🔗 https://app.enjoyoors.xyz/monad/wrap   
 🔹Stake MONAD and other supported tokens  
@@ -625,7 +614,7 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 ---
 
-## 73. Cult.Trade — Trade Meme Coins  
+## 72. Cult.Trade — Trade Meme Coins  
 
 🔗 https://www.cult.trade/  
 🔹Trade memecoins directly on the Cult.Trade platform  
@@ -634,28 +623,36 @@ Interact with Monad dApps on Testnet to maximize your chance of qualifying for f
 
 # 🔥 Daily Monad Tasks – 🔥 #
 
-## 74. Claim LUMONAD    
+## 73. Claim LUMONAD    
 🔗 https://gmonad.lumiterra.net/lumonad    
 
-## 75. GM & Contract Deploy    
+## 74. GM & Contract Deploy    
 🔗 https://onchaingm.com/    
 
-## 76. Talentum Daily Streak    
+## 75. Talentum Daily Streak    
 🔗 https://monad.talentum.id/projects    
 
-## 77. MetaLeap Daily Check-in     
+## 76. MetaLeap Daily Check-in     
 🔗 https://metaleap.io/p2e/earn    
 
-## 78. Monad Explorer — Connect & Transact    
+## 77. Monad Explorer — Connect & Transact    
 🔗 https://testnet.monadexplorer.com/  
 🔹 Connect Wallet  
 🔹 Swap  
 🔹 Send  
 
-## 79. Testnet Monad  
+## 78. Testnet Monad  
 🔗 https://testnet.monad.xyz/  
 🔹 Swap to Dak Yaki Cgog  
 
+## 79. Blockchain Messages — Send & Earn MON
+
+🔗 [https://www.blockchainmessages.xyz/](https://www.blockchainmessages.xyz/?referral=213874&chain=monad&type=public) 
+
+🔹 Send public, direct, encrypted, or anonymous messages  
+🔹 Earn points for each message  
+🔹 Track streaks & leaderboard  
+🔹 Claim referral & recipient rewards  
 ---
 ## 🧠 Best Practices
 
